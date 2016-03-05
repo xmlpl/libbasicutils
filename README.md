@@ -1,0 +1,2 @@
+# libbasicutils
+C++ utility classes
