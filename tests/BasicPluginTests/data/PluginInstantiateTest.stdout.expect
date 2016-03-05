@@ -1,0 +1,8 @@
+PluginA: Plugin A.
+PluginB: Plugin B.
+Constructing PluginA.
+Constructing PluginB.
+A
+B
+Destructing PluginA.
+Destructing PluginB.

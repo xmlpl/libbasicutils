@@ -1,0 +1,7 @@
+You can configure, build and install BasicUtils in the normal way with:
+  ./configure
+  make install
+
+See INSTALL for generic install instructions.
+
+See the doxygen documentation doc/html/index.html.

@@ -1,0 +1,4 @@
+Constructor called.
+NULLing smartPtr
+Destructor called.
+smartPtr NULLed

@@ -1,0 +1,13 @@
+PluginA: Plugin A.
+PluginB: Plugin B.
+PluginC (PluginA, PluginB): Plugin C.
+Constructing PluginC.
+Constructing PluginA.
+Constructing PluginB.
+C
+Calling Plugins A and B.
+A
+B
+Destructing PluginC
+Destructing PluginA.
+Destructing PluginB.

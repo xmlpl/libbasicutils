@@ -1,0 +1,2 @@
+Exception while loading library '.libs/libPluginF.so'
+ caused by: BasicPluginManager::registerPlugin() Detected dependency cycle between plugins 'PluginF' and 'PluginE'!

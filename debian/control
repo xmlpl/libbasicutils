@@ -1,0 +1,16 @@
+Source: libbasicutils
+Section: unknown
+Priority: optional
+Maintainer: Joseph Coffland <joseph@xmlpl.org>
+Build-Depends: debhelper (>= 4.0.0), autotools-dev, libltdl3-dev, cdbs, debhelper (>= 4.0)
+Standards-Version: 3.6.2
+
+Package: libbasicutils
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libltdl3
+Description: C++ utility and wrapper classes for systems programming
+ *** Unofficial package from joseph@xmlpl.org ***
+ .
+ A collection of C++ utility and wrapper classes
+ for exceptions, threads, stack traces, processes
+ pipes and more.

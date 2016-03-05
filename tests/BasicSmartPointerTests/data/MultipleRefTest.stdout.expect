@@ -1,0 +1,4 @@
+Constructor called.
+Releasing smartPtr1.
+Releasing smartPtr2.
+Destructor called.

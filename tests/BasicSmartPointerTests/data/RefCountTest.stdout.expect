@@ -1,0 +1,17 @@
+Constructor called.
+smartPtr1 ref count = 3
+smartPtr2 ref count = 3
+smartPtr3 ref count = 3
+Releasing smartPtr1.
+smartPtr1 ref count = 0
+smartPtr2 ref count = 2
+smartPtr3 ref count = 2
+Releasing smartPtr2.
+smartPtr1 ref count = 0
+smartPtr2 ref count = 0
+smartPtr3 ref count = 1
+Releasing smartPtr3.
+Destructor called.
+smartPtr1 ref count = 0
+smartPtr2 ref count = 0
+smartPtr3 ref count = 0
