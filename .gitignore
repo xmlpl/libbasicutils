@@ -26,3 +26,27 @@
 *.exe
 *.out
 *.app
+
+# Autotools
+/config
+Makefile
+Makefile.in
+/aclocal.m4
+/autom4te.cache
+/config.h
+/config.h.in
+/config.log
+/config.status
+/configure
+/libtool
+/stamp-h1
+
+# Backup files
+*~
+\#*
+
+# Misc
+.deps
+.libs
+/doc/Doxyfile
+/scripts/BasicUtils-config
